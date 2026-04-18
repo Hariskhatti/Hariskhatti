@@ -63,7 +63,7 @@ They demonstrate:
 
 ## 📫 Contact Me
 
-- 📧 Email: **habibharis232@gmail.com**  
+- 📧 Email: **hariskhatti.dev@gmail.com**  
 - 💼 LinkedIn: [Haris Khatti](https://www.linkedin.com/in/haris-khatti-a97526208/)  
 - 🌐 Portfolio: **Coming Soon**
 
