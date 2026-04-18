@@ -16,7 +16,8 @@ I focus on **clean code, proper architecture, and real-world backend logic** rat
 - RESTful APIs  
 - JWT Authentication  
 - Hibernate, JPA  
-- JDBC  
+- JDBC
+- JUnit / Mockito
 
 ### 🗄️ Databases
 - PostgreSQL  
