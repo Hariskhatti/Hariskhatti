@@ -66,7 +66,7 @@ They demonstrate:
 
 - 📧 Email: **hariskhatti.dev@gmail.com**  
 - 💼 LinkedIn: [Haris Khatti](https://www.linkedin.com/in/haris-khatti-a97526208/)  
-- 🌐 Portfolio: **Coming Soon**
+- 🌐 Portfolio: [Haris Khatti](https://hariskhatti-portfolio.netlify.app/)
 
 ---
 
